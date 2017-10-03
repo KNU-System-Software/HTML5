@@ -1,3 +1,15 @@
+## 종합 예제2
+
+<br/>
+
+#### 화면
+![final_exam02_1](https://github.com/mdy0501/HTML5/tree/master/final_exam02/01.PNG)
+![final_exam02_2](https://github.com/mdy0501/HTML5/tree/master/final_exam02/02.PNG)
+
+<br/>
+
+#### 소스 코드
+```HTML5
 <!DOCTYPE html>
 <html>
   <head>
@@ -129,3 +141,4 @@
     </div>
   </body>
 </html>
+```
