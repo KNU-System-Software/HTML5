@@ -3,8 +3,8 @@
 <br/>
 
 #### 화면
-![final_exam02_1](https://github.com/mdy0501/HTML5/tree/master/final_exam02/01.PNG)
-![final_exam02_2](https://github.com/mdy0501/HTML5/tree/master/final_exam02/02.PNG)
+![final_exam02_1](https://github.com/mdy0501/HTML5/blob/master/final_exam02/01.PNG)
+![final_exam02_2](https://github.com/mdy0501/HTML5/blob/master/final_exam02/02.PNG)
 
 <br/>
 
